@@ -1,28 +1,8 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
-      "name": "Ana Pacocha",
-      "id": 2
-    },
-    {
-      "name": "Miss Orville Nicolas IV",
-      "id": 3
-    },
-    {
-      "name": "Ms. Jonathan Connelly I",
-      "id": 4
-    },
-    {
-      "name": "Susie Kautzer",
-      "id": 5
-    },
-    {
-      "name": "Randolph Ankunding",
-      "id": 6
+      "name": "Dustin Champlin",
+      "id": 1
     }
   ],
   "albums": [],
