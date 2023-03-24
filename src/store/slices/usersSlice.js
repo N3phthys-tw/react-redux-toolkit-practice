@@ -21,7 +21,6 @@ const usersSlice = createSlice({
       state.isLoading = false;
       state.error = action.error;
     });
-
     builder.addCase(addUser.pending, (state, action) => {
       state.isLoading = true;
     });
