@@ -3,6 +3,10 @@
     {
       "name": "Dustin Champlin",
       "id": 1
+    },
+    {
+      "name": "Kim Strosin",
+      "id": 2
     }
   ],
   "albums": [
@@ -10,6 +14,46 @@
       "id": 10,
       "title": "Hiking Trip",
       "userId": "1"
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Concrete Towels",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Cotton Pizza",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Granite Keyboard",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Frozen Bacon",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Refined Granite Salad",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Small Bronze Salad",
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "title": "Refined Granite Gloves",
+      "id": 17
+    },
+    {
+      "userId": 2,
+      "title": "Practical Metal Chair",
+      "id": 18
     }
   ],
   "photos": []
