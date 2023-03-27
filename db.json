@@ -5,6 +5,12 @@
       "id": 1
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": "1"
+    }
+  ],
   "photos": []
 }
