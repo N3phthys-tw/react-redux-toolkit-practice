@@ -8,8 +8,13 @@
   "albums": [
     {
       "userId": 1,
-      "title": "Fantastic Bronze Table",
-      "id": 1
+      "title": "Incredible Soft Towels",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Soft Sausages",
+      "id": 5
     }
   ],
   "photos": []
