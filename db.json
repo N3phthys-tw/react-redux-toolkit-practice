@@ -8,35 +8,15 @@
   "albums": [
     {
       "userId": 1,
-      "title": "Incredible Soft Towels",
-      "id": 4
-    },
-    {
-      "userId": 1,
       "title": "Oriental Soft Sausages",
       "id": 5
     }
   ],
   "photos": [
     {
-      "albumId": 4,
-      "url": "https://loremflickr.com/150/150/abstract?lock=37963",
-      "id": 1
-    },
-    {
       "albumId": 5,
-      "url": "https://loremflickr.com/150/150/abstract?lock=35932",
-      "id": 2
-    },
-    {
-      "albumId": 4,
-      "url": "https://loremflickr.com/150/150/abstract?lock=16474",
-      "id": 3
-    },
-    {
-      "albumId": 4,
-      "url": "https://loremflickr.com/150/150/abstract?lock=80058",
-      "id": 4
+      "url": "https://loremflickr.com/150/150/abstract?lock=7085",
+      "id": 1
     }
   ]
 }
