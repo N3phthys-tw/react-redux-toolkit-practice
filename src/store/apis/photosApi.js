@@ -1,5 +1,5 @@
-import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/dist/query";
-import { faker, Faker } from "@faker-js/faker";
+import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/dist/query/react";
+import { faker } from "@faker-js/faker";
 
 const photosApi = createApi({
   reducerPath: "photos",
@@ -48,5 +48,4 @@ export const {
   useAddPhotoMutation,
   useRemovePhotoMutation,
 } = photosApi;
-
 export { photosApi };
