@@ -7,6 +7,10 @@
     {
       "name": "Kim Strosin",
       "id": 2
+    },
+    {
+      "name": "Rosalie Harvey",
+      "id": 3
     }
   ],
   "albums": [
@@ -54,6 +58,11 @@
       "userId": 2,
       "title": "Practical Metal Chair",
       "id": 18
+    },
+    {
+      "userId": 2,
+      "title": "Gorgeous Metal Hat",
+      "id": 19
     }
   ],
   "photos": []
